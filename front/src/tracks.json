@@ -1,0 +1,57 @@
+[
+    {
+     "name":"BLAZE",
+     "img":"/image/sample image.png",
+     "author":"artist 1 | artist 2",
+     "lenght":"0:00",
+     "tempo":120,
+     "popular":false,
+     "audioSrc":"/audio/sample.mp3",
+     "genre": "Trap",
+     "key":"C# Minor"
+    },
+    {
+     "name":"track 2",
+     "img":"/image/sample image.png",
+     "author":"artist 1 | artist 2",
+     "lenght":"0:00",
+     "tempo":120,
+     "popular":false,
+     "audioSrc":"/audio/sample.mp3",     
+     "genre": "Trap",
+     "key":"C# Minor"
+    },
+    {
+     "name":"track 3",
+     "img":"/image/sample image.png",
+     "author":"artist 1 | artist 2",
+     "lenght":"0:00",
+     "tempo":120,
+     "popular":false,
+     "audioSrc":"/audio/sample.mp3",
+     "genre": "Trap",
+     "key":"C# Minor"
+    },
+    {
+     "name":"track 4",
+     "img":"/image/sample image.png",
+     "author":"artist 1 | artist 2",
+     "lenght":"0:00",
+     "tempo":120,
+     "popular":true,
+     "genre": "Trap",
+     "key":"C# Minor",
+     "audioSrc":"/audio/sample.mp3"    
+    },
+    {
+     "name":"track 5",
+     "img":"/image/sample image.png",
+     "author":"artist 1 | artist 2",
+     "lenght":"0:00",
+     "tempo":120,
+     "popular":true,
+     "genre": "Trap",
+     "key":"C# Minor",
+     "audioSrc":"/audio/sample.mp3"    
+    }            
+]

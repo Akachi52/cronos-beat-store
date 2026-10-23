@@ -1,0 +1,7 @@
+.card {
+    margin: 20px;
+    font-size: small;
+    background-color: rgb(234, 244, 241);
+    width: 50%;
+    padding-left: 10px;
+}

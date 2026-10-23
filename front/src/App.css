@@ -1,0 +1,37 @@
+@media (max-width: 768px) {
+    .table-header {
+        display: none;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .filters-container {
+        position: fixed;
+        bottom: 60px;
+        left: 0;
+        right: 0;
+        z-index: 1040;
+        max-height: 60vh;
+        overflow-y: auto;
+        border-top: 1px solid #444;
+    }
+}
+
+@media (min-width: 768px) {
+    .filters-container {
+        position: static !important;
+        max-height: none;
+        overflow: visible;
+        border-top: none;
+    }
+}
+
+.navbar-collapse {
+    transition: all 0.3s ease;
+}
+
+.hide{display: none;}
+
+.red{
+    background-color: red;
+}
